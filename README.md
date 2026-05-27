@@ -42,7 +42,6 @@ You win when all symbols across a selected line match.
 
 ## Project Structure
 
-```bash
 slot_machine.py
 
 Main functions:
@@ -61,27 +60,26 @@ Main functions:
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/your-username/python-slot-machine.git
-```
+
 
 Move into the project directory:
 
-```bash
 cd python-slot-machine
-```
+
 
 Run the program:
 
-```bash
+
 python slot_machine.py
-```
+
 
 ---
 
 ## Example Gameplay
 
-```bash
+
 What would you like to deposit? $100
 
 Current balance is $100
@@ -98,7 +96,7 @@ C | B | C
 
 You won $20.
 You won on lines: 2
-```
+
 
 ---
 
