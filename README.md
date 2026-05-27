@@ -1,4 +1,3 @@
-````markdown
 # Python Slot Machine
 
 A simple terminal-based slot machine game built with Python.  
@@ -45,7 +44,6 @@ You win when all symbols across a selected line match.
 
 ```bash
 slot_machine.py
-````
 
 Main functions:
 
